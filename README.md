@@ -1,2 +1,2 @@
 # MLDL_Reading_List
-ml papers reading list
+papers reading list
